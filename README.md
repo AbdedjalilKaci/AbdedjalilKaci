@@ -27,41 +27,32 @@
 <br>
 <br>
 <br>
+<br>
+ 
+### 🚀 Languages & Tools
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools & Platforms |
+|----------|---------|----------|-------------------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="40"/> |
+
+</div>
+
 
  ## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdedjalilKaci&theme=2077" 
   alt="Profile Details" width="100%">
-<div>
-  <div style="display:f">
-    <table>
-  <tr>
-    <td>
-      <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdedjalilKaci&theme=2077" 
-    alt="Repos Per Language" width="49%">
-    </td>
-    <td>
-        <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdedjalilKaci&theme=2077" 
-    alt="Most Used Languages" width="49%">
-    </td>
-    <td>
-      
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdedjalilKaci&theme=2077" 
-    alt="Stats" width="49%">
-    </td>
-      <td>
-   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdedjalilKaci&theme=2077&utcOffset=+1" 
-    alt="Productive Time" width="49%">
-    </td>
-  </tr>
-</table>
+  <p align="center">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdedjalilKaci&theme=2077" alt="Repos Per Language" width="24%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdedjalilKaci&theme=2077" alt="Most Used Languages" width="24%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdedjalilKaci&theme=2077" alt="Stats" width="24%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdedjalilKaci&theme=2077&utcOffset=+1" alt="Productive Time" width="24%">
+  </p>
 
-  </div>
-</div>
+ 
+ 
 
 
