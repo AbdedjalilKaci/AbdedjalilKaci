@@ -8,6 +8,10 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
 
+ 
+
+        
+
 <ul dir="auto">
   <li>🏫 I am a <code>Computer Science student</code> </li>
   <li>🔭 I’m currently working as a <code>full stack</code> in web development.</li>
@@ -38,6 +42,9 @@
 | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="40"/> |
 
 </div>
+
+<p align="center"> <a href="mailto:dijalilkc.busenessmail@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/Abdeldjalil kaci" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://t.me/yourtelegram" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://discordapp.com/users/850309534114250783" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://wa.me/0656949774" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> </p>
+
 
 
  ## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats
