@@ -13,7 +13,7 @@
         
 
 <ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code> </li>
+  <li>🏫 I am a <code>Computer Science student</code>.</li>
   <li>🔭 I’m currently working as a <code>full stack</code> in web development.</li>
   <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:djalilkc.busenissmail@gmail.com"><code>djalilkc.busenissmail@gmail.com</code></a></strong></li>
