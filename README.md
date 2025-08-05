@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Abdeldjalil </h2>
 
 ###
-<h3 align="center" style="">I'm a  passionate frontend developer from algeria</h3>
+<h3 align="center" style="">I'm a passionate frontend developer from algeria</h3>
 
 <br>
  <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage"></a>
