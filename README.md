@@ -39,7 +39,7 @@
 
 | Frontend | Backend | Database | Tools & Platforms |
 |----------|---------|----------|-------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,django" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,django" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio" height="40"/> |
 
 </div>
 
