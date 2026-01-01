@@ -4,34 +4,9 @@
 <h3 align="center" style="">I'm a passionate frontend developer from algeria</h3>
 
 <br>
- <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage"></a>
+ <!-- <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
-
- 
-
-        
-
-<ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code>.</li>
-  <li>🔭 I’m currently working as a <code>full stack</code> in web development.</li>
-  <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
-  <li>📫 How to reach me: <strong><a href="mailto:djalilkc.busenissmail@gmail.com"><code>djalilkc.busenissmail@gmail.com</code></a></strong></li>
-  <li>🤔 I’m currently open for a new <code>job opportunity</code>.
-<!--     You can check my <a href="https://drive.google.com/file/YOUR_RESUME_LINK" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li> -->
-  <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
-  <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
-</ul>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank"> -->
  
 ### 🚀 Languages & Tools
 
