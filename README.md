@@ -28,12 +28,7 @@
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdedjalilKaci&theme=2077" 
   alt="Profile Details" width="100%">
-  <p align="center">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdedjalilKaci&theme=2077" alt="Repos Per Language" width="24%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdedjalilKaci&theme=2077" alt="Most Used Languages" width="24%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdedjalilKaci&theme=2077" alt="Stats" width="24%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdedjalilKaci&theme=2077&utcOffset=+1" alt="Productive Time" width="24%">
-  </p>
+  
 
  
  ---
