@@ -22,17 +22,6 @@
 <p align="center"> <a href="mailto:dijalilkc.busenessmail@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/abdeldjalil-kaci-792107329/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://t.me/0656949774gi" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://discordapp.com/users/850309534114250783" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://wa.me/0656949774" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> </p>
 
 
-
- ## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats
-
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdedjalilKaci&theme=2077" 
-  alt="Profile Details" width="100%">
-  
-
- 
- ---
-
 ## 🔥 Current & Longest Streak
 
 <p align="center">
